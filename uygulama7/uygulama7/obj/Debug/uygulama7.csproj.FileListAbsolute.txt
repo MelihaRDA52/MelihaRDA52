@@ -1,0 +1,10 @@
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\obj\Debug\uygulama7.csproj.AssemblyReference.cache
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\obj\Debug\uygulama7.Form1.resources
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\obj\Debug\uygulama7.Properties.Resources.resources
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\obj\Debug\uygulama7.csproj.GenerateResource.cache
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\obj\Debug\uygulama7.csproj.CoreCompileInputs.cache
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\bin\Debug\uygulama7.exe.config
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\bin\Debug\uygulama7.exe
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\bin\Debug\uygulama7.pdb
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\obj\Debug\uygulama7.exe
+C:\Users\Ogretmen\source\repos\uygulama7\uygulama7\obj\Debug\uygulama7.pdb
