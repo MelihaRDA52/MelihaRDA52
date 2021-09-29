@@ -1,0 +1,10 @@
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\bin\Debug\Sayfa49.exe.config
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\bin\Debug\Sayfa49.exe
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\bin\Debug\Sayfa49.pdb
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\obj\Debug\Sayfa49.csproj.AssemblyReference.cache
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\obj\Debug\Sayfa49.Form1.resources
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\obj\Debug\Sayfa49.Properties.Resources.resources
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\obj\Debug\Sayfa49.csproj.GenerateResource.cache
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\obj\Debug\Sayfa49.csproj.CoreCompileInputs.cache
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\obj\Debug\Sayfa49.exe
+C:\Users\Ogretmen\source\repos\Sayfa49\Sayfa49\obj\Debug\Sayfa49.pdb
