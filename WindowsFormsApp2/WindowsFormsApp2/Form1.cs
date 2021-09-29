@@ -19,11 +19,15 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int sayi1, sayi2, toplam;
-            sayi1 = Convert.ToInt16(textBox1.Text);
-            sayi2 = Convert.ToInt16(textBox2.Text);
-            toplam = sayi1 + sayi2;
-            textBox3.Text = toplam.ToString();
+            byte yas;
+            yas = Convert.ToByte(textBox1.Text);
+            if (yas > 17)
+                MessageBox.Show("Ehliyet başvurusunda bulunabilirsiniz");
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

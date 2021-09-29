@@ -22,17 +22,14 @@ namespace WindowsFormsApp1
 
         }
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            bool secim;
-            secim = checkBox1.Checked;
-            label3.Text = secim.ToString();
-        }
+            byte skor1, skor2;
+                skor1 = 4;
+            skor2 = 1;
+            if (skor1 > skor2)
+                MessageBox.Show("1.Takım Kazandı.");
 
-        private void label3_Click(object sender, EventArgs e)
-        {
-           
-         
         }
     }
 }

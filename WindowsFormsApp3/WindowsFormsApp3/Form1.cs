@@ -19,16 +19,16 @@ namespace WindowsFormsApp3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int sayi1;
-            int sayi2;
-            int toplam;
-            sayi1 = 5;
-            sayi2 = 20;
-            toplam = (sayi1 + sayi2)*2+5;
-            MessageBox.Show(toplam.ToString());
+            byte sayi1, sayi2;
+            sayi1 = Convert.ToByte(textBox1.Text);
+            sayi2 = Convert.ToByte(textBox2.Text);
+            if (sayi1 > sayi2)
+                MessageBox.Show("1.sayi 2.sayidan büyüktür");
+            if (sayi1 == sayi2)
+                MessageBox.Show("Sayılar birbirine eşittir");
+            if (sayi1 < sayi2)
+                MessageBox.Show("2.sayı 1.sayıdan büyüktür");
 
-            
-           
         }
     }
 }
